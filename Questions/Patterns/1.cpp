@@ -40,7 +40,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter the N : 5";
+    cout << "Enter the N : ";
     cin >> n;
     for (int i = 0; i < n; i++)
     {
