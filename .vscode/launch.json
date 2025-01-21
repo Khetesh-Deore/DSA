@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/khete/OneDrive/Desktop/A/Strivers/DSA/Questions",
-      "program": "c:/Users/khete/OneDrive/Desktop/A/Strivers/DSA/Questions/build/Debug/outDebug",
+      "cwd": "c:/Users/khete/OneDrive/Desktop/A/Strivers/DSA/Questions/Basic_Maths",
+      "program": "c:/Users/khete/OneDrive/Desktop/A/Strivers/DSA/Questions/Basic_Maths/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
