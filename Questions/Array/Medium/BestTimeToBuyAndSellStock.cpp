@@ -1,30 +1,17 @@
-//moore's voting algorithm
 #include <bits/stdc++.h>
 using namespace std;
 int f(vector<int> &arr, int n)
 {
-    int cnt=0;
-    int el;
+    int mini =arr[0];
+    int maxProfit=0;
     for(int i=0;i<n;i++)
     {
-        if(cnt==0)
-        {
-            cnt=1;
-            el =arr[i];
-
-        }
-        else if(arr[i]==el)
-        {
-            cnt++;
-        }
-        else{
-            cnt--;
-        }
-        
-
+        int cost =arr[i]-mini;
+        maxProfit=max(maxProfit,cost);
+        mini=min(mini,arr[i]);
     }
-
-    return el;
+    
+         return maxProfit;
 }
 
 int main()
