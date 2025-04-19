@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/khete/OneDrive/Attachments/Desktop/A/Strivers/DSA/Questions/LinkList/1D_LinkList",
-      "program": "c:/Users/khete/OneDrive/Attachments/Desktop/A/Strivers/DSA/Questions/LinkList/1D_LinkList/build/Debug/outDebug",
+      "cwd": "c:/Users/khete/OneDrive/Attachments/Desktop/A/Strivers/DSA/Questions/04_Binary_Search/01_BS_on_1D_Array",
+      "program": "c:/Users/khete/OneDrive/Attachments/Desktop/A/Strivers/DSA/Questions/04_Binary_Search/01_BS_on_1D_Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
