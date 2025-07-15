@@ -11,6 +11,8 @@ int f(int arr[], int n)
             i++;
         }
     }
+    for (int j = 0; j < i+1; j++)
+        cout<< arr[j]<<" ";
     return i+1;
 }
 

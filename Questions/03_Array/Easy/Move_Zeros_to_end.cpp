@@ -20,6 +20,7 @@ vector<int> f(vector<int> &arr, int n)
             swap(arr[i], arr[j]);
             j++;
         }
+       
     }
 
     return arr;

@@ -41,7 +41,7 @@ int question(int n)
 
         }
     }
-    sort(ls.begin(),ls.end());
+   sort(ls.begin(),ls.end());
 
     for(auto it :ls)
     cout<<it<<" ";
